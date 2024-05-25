@@ -1,0 +1,4 @@
+__pycache__/
+RA_job_venv
+geckodriver.log
+scraper.log
